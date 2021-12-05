@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Shulyak"]
+	path = SubmoduleRepository_Shulyak
+	url = https://github.com/DmitriyShulyak/SubmoduleRepository_Shulyak.git
